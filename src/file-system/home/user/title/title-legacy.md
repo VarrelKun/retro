@@ -2,13 +2,13 @@
 
 
 
-## Welcome to ED-Linux 1.0 LTS
+## Welcome to mY GFX website ygy
 
 
 
-#  Hi there,
-#  *I'm Edward*
-#  -Creative Developer
+#  Wangsaf Cuy,
+#  *gw Gopalasu*
+#  -Admin UNV
 ##     — Computer Science graduate of
 ##        the University of Melbourne
 ##
